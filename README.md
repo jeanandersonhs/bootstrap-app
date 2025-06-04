@@ -1,7 +1,7 @@
-# Sistema Bootstrap - Documentação
+# Sistema Bootstrap
 
 ## Descrição
-Este projeto demonstra a implementação de componentes nativos do Bootstrap 5.3.2, criando uma interface responsiva e interativa que serve como documentação prática dos principais recursos do framework.
+Este projeto demonstra a implementação de componentes nativos do Bootstrap 5, criando uma interface responsiva e interativa que serve como prática dos principais recursos do framework.
 
 ## Tecnologias Utilizadas
 - **Bootstrap 5.3.2** - Framework CSS principal
